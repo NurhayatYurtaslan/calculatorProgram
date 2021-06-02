@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calculatorProgram", "calculatorProgram\calculatorProgram.pyproj", "{00E441C2-FDB6-4D19-9A26-F0A9C89B91A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E441C2-FDB6-4D19-9A26-F0A9C89B91A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E441C2-FDB6-4D19-9A26-F0A9C89B91A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F617EEC9-92B7-4D45-988E-AAB2E3BF2054}
+	EndGlobalSection
+EndGlobal
